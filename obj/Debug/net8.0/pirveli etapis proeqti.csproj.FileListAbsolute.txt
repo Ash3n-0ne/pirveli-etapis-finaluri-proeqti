@@ -1,0 +1,17 @@
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\pirveli etapis proeqti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\pirveli etapis proeqti.AssemblyInfoInputs.cache
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\pirveli etapis proeqti.AssemblyInfo.cs
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\pirveli etapis proeqti.csproj.CoreCompileInputs.cache
+C:\Users\zuka\source\repos\pirveli etapis proeqti\bin\Debug\net8.0\pirveli etapis proeqti.exe
+C:\Users\zuka\source\repos\pirveli etapis proeqti\bin\Debug\net8.0\pirveli etapis proeqti.deps.json
+C:\Users\zuka\source\repos\pirveli etapis proeqti\bin\Debug\net8.0\pirveli etapis proeqti.runtimeconfig.json
+C:\Users\zuka\source\repos\pirveli etapis proeqti\bin\Debug\net8.0\pirveli etapis proeqti.dll
+C:\Users\zuka\source\repos\pirveli etapis proeqti\bin\Debug\net8.0\pirveli etapis proeqti.pdb
+C:\Users\zuka\source\repos\pirveli etapis proeqti\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\pirveli etapis proeqti.csproj.AssemblyReference.cache
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\pirveli etapis proeqti.csproj.CopyComplete
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\pirveli etapis proeqti.dll
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\refint\pirveli etapis proeqti.dll
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\pirveli etapis proeqti.pdb
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\pirveli etapis proeqti.genruntimeconfig.cache
+C:\Users\zuka\source\repos\pirveli etapis proeqti\obj\Debug\net8.0\ref\pirveli etapis proeqti.dll

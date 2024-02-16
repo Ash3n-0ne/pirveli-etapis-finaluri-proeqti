@@ -1,0 +1,13 @@
+{
+  "name": "Jason",
+  "lastname": "Sonson",
+  "Carddetails": {
+    "cardNumber": "6543 - 2109 - 8765 - 4321",
+    "expirationDate": "9/27",
+    "CVC": "877"
+  },
+  "pin": "1111",
+  "transactions": [
+    
+  ]
+}
